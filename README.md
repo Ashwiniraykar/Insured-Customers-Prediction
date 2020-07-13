@@ -5,11 +5,11 @@ To predict the dollar amount of money spent by the insurance company on insured 
 
 ## Insured Customers' Data
 It has information consisting of:
-1. age
-2. sex (female, male)
+1. Age
+2. Sex (female, male)
 3. BMI
 4. Children
 5. Smoker (yes, no)
 6. Region (northeast, northwest, southeast, southwest)
-7. expenses
+7. Expenses
 
